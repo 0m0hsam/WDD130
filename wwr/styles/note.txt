@@ -1,0 +1,7 @@
+https://coolors.co/palette/003049-d62828-f77f00-fcbf49-eae2b7;
+rgb(37, 150, 190);
+#2c2e77;
+#2c0e13
+#e59196
+#dc292c
+#7c546b

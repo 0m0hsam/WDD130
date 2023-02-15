@@ -27,11 +27,21 @@ p {
   padding-inline: 20px;
 }
 
+
+
 header a:hover {
   background-color: #023047;
   color: white;
   border-radius: 10px;
   padding: 5px;
+}
+
+header #logo_link{
+  pointer-events: none;
+}
+
+header #family-nav a{
+  color: #023047;
 }
 
 * {
